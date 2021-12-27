@@ -36,7 +36,7 @@
     "test": "grunt && node test/index.js"
   },
   "dependencies": {
-    "cldr-data-downloader": "github:KDS/cldr-data-downloader#5a921aa1c4f40e8c06fca8fd86519e87f61d2f7b",
+    "cldr-data-downloader": "0.3.x",
     "glob": "5.x.x"
   },
   "devDependencies": {
