@@ -36,7 +36,7 @@
     "test": "grunt && node test/index.js"
   },
   "dependencies": {
-    "cldr-data-downloader": "github:rxaviers/cldr-data-downloader#3a2a160084bf70722bbc2dd9784dabb334d2e8ab",
+    "cldr-data-downloader": "git+https://github.com/rxaviers/cldr-data-downloader.git#3a2a160084bf70722bbc2dd9784dabb334d2e8ab",
     "glob": "5.x.x"
   },
   "devDependencies": {
